@@ -1,9 +1,8 @@
-# Processed data for the manuscript 
-"A Cell-type Specific Cortico-subcortical Brain Circuit for Curiosity and Novelty Seeking Behavior"
+# Data for "A Cell-type Specific Cortico-subcortical Brain Circuit for Curiosity and Novelty Seeking Behavior"
 by 
 Mehran Ahmadlou*, Janou H.W. Houba, Jacqueline F.M. van Vierbergen, Maria Giannouli,
 Geoffrey-Alexander Gimenez, Christiaan van Weeghel, Maryam Darbanfouladi, Maryam Yasamin Shirazi,
-Julia Dziubek1, Mejdy Kacem, Fred de Winter, J. Alexander Heimel
+Julia Dziubek, Mejdy Kacem, Fred de Winter, J. Alexander Heimel
 
 Correspondence to Mehran Ahmadlou (m.ahmadlou@nin.knaw.nl) and Alexander Heimel (a.heimel@nin.knaw.nl)
 
