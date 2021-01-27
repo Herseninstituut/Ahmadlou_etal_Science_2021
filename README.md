@@ -10,5 +10,5 @@ Correspondence to Mehran Ahmadlou (m.ahmadlou@nin.knaw.nl) and Alexander Heimel 
 The data is divided in two folders with self-explanatory names containing the data in matlab format.
  In each of these folders a file readme.txt explains how the data is structured within the matlab files. 
 
-This file and data can be downloaded from github.com/heimel/Ahmadlou_etal_Science_2021
+This file and data can be downloaded from github.com/Herseninstituut/Ahmadlou_etal_Science_2021
 
