@@ -13,3 +13,5 @@ This file and data can be downloaded from github.com/Herseninstituut/Ahmadlou_et
 
 The data is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.]
 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+[![DOI](https://zenodo.org/badge/333538061.svg)](https://zenodo.org/badge/latestdoi/333538061)
