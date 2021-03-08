@@ -11,3 +11,5 @@ The data is divided in two folders with self-explanatory names containing the da
 
 This file and data can be downloaded from github.com/Herseninstituut/Ahmadlou_etal_Science_2021
 
+The data is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.]
+(https://creativecommons.org/licenses/by-nc-sa/4.0/)
